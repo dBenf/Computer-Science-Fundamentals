@@ -1,0 +1,14 @@
+Sia assegnato da tastiera il nome di un file di tipo testo residente su memoria di 
+massa e contenente una matrice NxM  di stringhe non nulle i  valori:  N riempimento  
+di riga,  M riempimento  di colonna,  e gli elementi della matrice. 
+
+Esercizio  semplice:  Scrivere un programma modulare che determini  e stampi  tutte le 
+posizioni di riga e di colonna delle stringhe caratterizzate dal presentare la stessa  
+lunghezza massima all’interno della matrice. 
+
+Esercizio  difficile:  Scrivere un programma modulare che determini  e stampi la 
+matrice dopo aver spostato le righe in modo da essere ordinate in senso crescente 
+relativamente alla somma delle lunghezze delle stringhe in esse presenti: in altri 
+termini la prima riga deve riportare  la riga della matrice di partenza che presenta 
+il  valore della somma delle lunghezze delle stringhe più piccola; l’ultima riga quella 
+che presenta il valore della stessa somma più grande. 

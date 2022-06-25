@@ -1,0 +1,25 @@
+Sia assegnato su memoria di massa un file sequenziale contenente un elenco di nomi e 
+numeri come di seguito esemplificato:
+chianese
+3321
+moscato
+3345
+picariello
+2134
+moscato
+3345
+Scrivere un programma che, dopo aver richiesto il nome del file da tastiera,  
+effettui il caricamento dell''elenco in un vettore di record con campi nome e numero. 
+
+Successivamente:
+Esercizio semplice: verificare che l''elenco non è ordinato in ordine alfabetico, 
+se disordinato effettuarne l''ordinamento, infine produrre la stampa dell''elenco. 
+(Il main dovrà prevedere il richiamo delle procedure carica_elenco, verifica_ordine, 
+ordine e stampa_elenco)
+
+Esercizio difficile: verificare che l''elenco non è ordinato in ordine alfabetico, 
+se disordinato effettuarne l''ordinamento, eliminare la presenza di nomi che si ripetono, 
+infine produrre la stampa dell''elenco.
+(Il main dovrà prevedere il richiamo delle procedure carica_elenco, verifica_ordine, 
+ordine, elimina_doppioni e stampa_elenco
+
